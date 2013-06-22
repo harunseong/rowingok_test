@@ -1,2 +1,2 @@
-rowingok_test
+rowingok_test: Test Test 입니다.
 =============
